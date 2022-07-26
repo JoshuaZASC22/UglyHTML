@@ -1,0 +1,28 @@
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  h1 {
+    text-align: center;
+  }
+  h3 {
+    text-align: center;
+  }
+  body {
+    background-color: rgb(0, 0, 0);
+  }
+  body {
+    color: white;
+  }
+  
+  h1 {
+    color: rgb(255, 200, 0);
+  }
+  h3 {
+    color: white;
+  }
+  
+    h1 {
+        background-color: rgb(13, 86, 164);
+      }
